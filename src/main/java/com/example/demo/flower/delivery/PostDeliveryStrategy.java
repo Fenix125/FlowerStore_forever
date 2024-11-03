@@ -1,6 +1,7 @@
-package com.example.demo.delivery;
+package com.example.demo.flower.delivery;
 import java.util.List;
-import com.example.demo.flowers.Item;
+
+import com.example.demo.flower.flowers.Item;
 
 public class PostDeliveryStrategy implements Delivery {
     @Override

@@ -1,10 +1,10 @@
-package com.example.demo.flowers;
+package com.example.demo.flower.flowers;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.demo.delivery.Delivery;
-import com.example.demo.payment.Payment;
+import com.example.demo.flower.delivery.Delivery;
+import com.example.demo.flower.payment.Payment;
 
 public class Order {
     private List<Item> items;

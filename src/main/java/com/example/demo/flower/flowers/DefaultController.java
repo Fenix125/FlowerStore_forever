@@ -1,4 +1,4 @@
-package com.example.demo.flowers;
+package com.example.demo.flower.flowers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

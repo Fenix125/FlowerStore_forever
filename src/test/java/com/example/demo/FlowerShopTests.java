@@ -1,13 +1,14 @@
 package com.example.demo;
 
-import com.example.demo.decor.PaperDecorator;
-import com.example.demo.flowers.Flower;
-import com.example.demo.flowers.FlowerColor;
-import com.example.demo.flowers.Item;
-import com.example.demo.flowers.FlowerType;
-import com.example.demo.flowers.FlowerBucket;
-import com.example.demo.flowers.FlowerPack;
-import com.example.demo.flowers.Order;
+import com.example.demo.flower.decor.PaperDecorator;
+import com.example.demo.flower.flowers.Flower;
+import com.example.demo.flower.flowers.FlowerBucket;
+import com.example.demo.flower.flowers.FlowerColor;
+import com.example.demo.flower.flowers.FlowerPack;
+import com.example.demo.flower.flowers.FlowerType;
+import com.example.demo.flower.flowers.Item;
+import com.example.demo.flower.flowers.Order;
+
 import org.junit.jupiter.api.Test;
 
 

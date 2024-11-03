@@ -1,6 +1,6 @@
-package com.example.demo.decor;
+package com.example.demo.flower.decor;
 
-import com.example.demo.flowers.Item;
+import com.example.demo.flower.flowers.Item;
 
 public class PaperDecorator extends ItemDecorator {
     private static final double PAPER_COST = 13.0;

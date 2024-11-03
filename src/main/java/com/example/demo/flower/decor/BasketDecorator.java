@@ -1,6 +1,6 @@
-package com.example.demo.decor;
+package com.example.demo.flower.decor;
 
-import com.example.demo.flowers.Item;
+import com.example.demo.flower.flowers.Item;
 
 public class BasketDecorator extends ItemDecorator {
     private static final double BASKET_COST = 4.0;
