@@ -25,7 +25,7 @@ public class AppUser {
     @Transient
     private Integer age;
 
-    public int getAge(){
+    public int getAge() {
         return Period.between(dob, LocalDate.now()).getYears();
     }
 }
